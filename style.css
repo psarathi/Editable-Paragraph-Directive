@@ -1,0 +1,9 @@
+/* Put your css in here */
+
+#editable{
+  border: 1px solid green;
+}
+
+.isEditing{
+  border: 1px dotted red !important;
+}
