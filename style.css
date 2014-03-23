@@ -1,9 +1,11 @@
 /* Put your css in here */
 
-#editable{
-  border: 1px solid green;
+.editable{
+    border: 1px solid green;
+    word-wrap:break-word;
+    width: 300px;
 }
 
 .isEditing{
-  border: 1px dotted red !important;
+    border: 1px dotted red !important;
 }
